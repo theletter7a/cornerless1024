@@ -6,6 +6,7 @@ It's like 1024, but with no corners. Since the most popular method for most 2048
 - Only spawns 2s
 - The corners are simply not loaded into the grid.
 - Style of the corner cells match the background
+- Added a move counter
 - New color sequence from https://coolors.co
 
 ## Notes
