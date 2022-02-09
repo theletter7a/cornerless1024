@@ -1,4 +1,4 @@
-# Cornerless 2024
+# Cornerless 1024
 It's like 1024, but with no corners. Since the most popular method for most 2048 variants specifically involves combining into a corner, why not fuck with everyone and remove all four. I made this during school, so I didn't feel like actually cloning the original 2048 repository. Of course, tons of credit and respect goes to Gabe Cirulli & company for making this fun, inventive, and astonishingly distracting game. Below are a list of changes and some notes to give you a better understanding of how I made this version work.
 
 ## Changes
