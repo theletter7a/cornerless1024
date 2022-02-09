@@ -1,10 +1,10 @@
-# Cornerless 2024
-It's like 1024, but with no corners. Since the most popular method for most 2048 variants specifically involves combining into a corner, why not fuck with everyone and remove all four. I made this during school, so I didn't feel like actually cloning the original 2048 repository. Of course, tons of credit and respect goes to Gabe Cirulli & company for making this fun, inventive, and astonishingly distracting game. Below are a list of changes and some notes to give you a better understanding of how I made this version work.
+# Cornerless 1024
+It's like 1024, but with no corners. Since the most popular method for solving most 2048 variants specifically involves combining into a corner, why not fuck with everyone and remove all four. I made this during school, so I didn't feel like actually cloning the original 2048 repository. Of course, tons of credit and respect to Gabe Cirulli & company for creating this fun, inventive, and astonishingly distracting game. Below are a list of changes and some notes to give you a better understanding of how I made this version work.
 
 ## Changes
 - Removed the "New Game" button
 - Only spawns 2s
-- The corners are simply not loaded into the grid.
+- The corners are simply not loaded into the grid object.
 - Style of the corner cells match the background
 - Added a move counter
 - New color sequence from https://coolors.co
